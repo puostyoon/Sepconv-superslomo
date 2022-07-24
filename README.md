@@ -24,7 +24,10 @@ or, from this link:
 http://toflow.csail.mit.edu/index.html#triplet
 
 # Reference: 
-https://github.com/HyeongminLEE/pytorch-sepconv/tree/0078280397e1f41bf21fc15d96179cf15223c77b
+Nikalus et. Al. “Video Frame Interpolation via Adaptive Separable Convolution,” (CVPR2017): https://arxiv.org/abs/1708.01692
 
 
-https://github.com/sniklaus/sepconv-slomo
+HyeongminLEE/pytorch-sepconv: https://github.com/HyeongminLEE/pytorch-sepconv/tree/0078280397e1f41bf21fc15d96179cf15223c77b
+
+
+sniklaus/sepconv-slomohttps: github.com/sniklaus/sepconv-slomo
