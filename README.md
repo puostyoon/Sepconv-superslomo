@@ -11,7 +11,7 @@ Second, this code use xavier initializer instead of convolution aware initializa
 Download dataset from below "Download dataset" section.
 
 locate dataset like below directory configuration(I recommend to use folder_hierarchy_change.py).
-
+`````````
 |--root    
      |--train    
           |--video time line1    
@@ -37,7 +37,7 @@ locate dataset like below directory configuration(I recommend to use folder_hier
                |--. .     
                |--0064.png     
           |--. . .       
-      
+`````````      
 Modify config.py before run the code.
 
 
