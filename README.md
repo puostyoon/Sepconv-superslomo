@@ -8,6 +8,36 @@ Thus this code does not require CUDA or cuDNN toolkit, and easy to understand or
 Second, this code use xavier initializer instead of convolution aware initialization.
 
 # Usage
+Download dataset from below "Download dataset" section.
+
+locate dataset like below directory configuration(I recommend to use folder_hierarchy_change.py).
+
+|--root
+     |--train
+        |--video time line1
+           |--0000.png
+           |--0001.png
+           |--. . .
+           |--0064.png
+        |--video time line2
+            |--0000.png
+            |--0001.png
+            |--. . .
+            |--0064.png
+        |--. . .
+     |--test
+        |--video time line1
+           |--0000.png
+           |--0001.png
+           |--. . .
+           |--0064.png
+        |--video time line2
+            |--0000.png
+            |--0001.png
+            |--. .
+            |--0064.png
+        |--. . .
+
 Modify config.py before run the code.
 
 
