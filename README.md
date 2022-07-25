@@ -31,3 +31,7 @@ HyeongminLEE/pytorch-sepconv: https://github.com/HyeongminLEE/pytorch-sepconv/tr
 
 
 sniklaus/sepconv-slomohttps: github.com/sniklaus/sepconv-slomo
+
+deep-learning-study tistory: https://deep-learning-study.tistory.com/677
+
+deep-learning-study tistory: https://deep-learning-study.tistory.com/678
