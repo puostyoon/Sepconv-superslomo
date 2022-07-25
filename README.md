@@ -14,29 +14,29 @@ locate dataset like below directory configuration(I recommend to use folder_hier
 
 |--root    
      |--train    
-        |--video time line1    
-           |--0000.png     
-           |--0001.png    
-           |--. . .    
-           |--0064.png    
-        |--video time line2    
-            |--0000.png     
-            |--0001.png    
-            |--. . .     
-            |--0064.png     
-        |--. . .     
+          |--video time line1    
+               |--0000.png     
+               |--0001.png    
+               |--. . .    
+               |--0064.png    
+          |--video time line2    
+               |--0000.png     
+               |--0001.png    
+               |--. . .     
+               |--0064.png     
+          |--. . .     
      |--test       
-        |--video time line1     
-           |--0000.png     
-           |--0001.png       
-           |--. . .        
-           |--0064.png       
-        |--video time line2      
-            |--0000.png     
-            |--0001.png    
-            |--. .     
-            |--0064.png     
-        |--. . .       
+          |--video time line1     
+               |--0000.png     
+               |--0001.png       
+               |--. . .        
+               |--0064.png       
+          |--video time line2      
+               |--0000.png     
+               |--0001.png    
+               |--. .     
+               |--0064.png     
+          |--. . .       
       
 Modify config.py before run the code.
 
