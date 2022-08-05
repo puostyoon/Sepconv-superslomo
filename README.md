@@ -2,15 +2,15 @@
 Pytorch implementation of Nikalus et. Al. “Video Frame Interpolation via Adaptive Separable Convolution,” (CVPR2017).
 
 There are some differences between implementation of above paper and this codes.
-First, this code does not use CUDA, cuDNN or other gpu accerlating methods but only use torch's inherent gpu acceration.
-Thus this code does not require CUDA or cuDNN toolkit, and easy to understand or modify especially for who does not understand CUDA and cuDNN codes.
+First, this version does not use independent CUDA, cuDNN or other gpu accerlating codes but only use pytorch's inherent gpu acceration codes.
+Thus this code is easy to understand or modify especially for who does not understand CUDA and cuDNN codes.
 
-Second, this code use xavier initializer instead of convolution aware initialization.
+Second, this implementation use xavier initializer instead of convolution aware initialization(just for convinience, torch does not support convolution aware initialization as a module).
 
 # Usage
 Download dataset from below "Download dataset" section.
 
-locate dataset like below directory configuration(I recommend to use folder_hierarchy_change.py).
+locate dataset like below directory configuration(I recommend to use folder_hierarchy_change.py).Cancel changes
 `````````
 |--root    
      |--train    
