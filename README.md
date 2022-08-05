@@ -10,7 +10,7 @@ Second, this implementation use xavier initializer instead of convolution aware 
 # Usage
 Download dataset from below "Download dataset" section.
 
-locate dataset like below directory configuration(I recommend to use folder_hierarchy_change.py).Cancel changes
+Locate dataset like below directory configuration(I recommend to use folder_hierarchy_change.py).
 `````````
 |--root    
      |--train    
